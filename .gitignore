@@ -1,0 +1,10 @@
+# environment and caches
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# downloaded datasets and model weights (large, re-downloadable)
+image_nets/artifacts/
+qwen/artifacts/
+*.safetensors

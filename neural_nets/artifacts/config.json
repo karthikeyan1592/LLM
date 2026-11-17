@@ -1,0 +1,14 @@
+{
+  "N": 1000,
+  "n_train": 640,
+  "n_val": 160,
+  "n_test": 200,
+  "layer_sizes": [
+    3,
+    3,
+    2,
+    1
+  ],
+  "seed": 42,
+  "noise_rate": 0.05
+}
