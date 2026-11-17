@@ -8,3 +8,6 @@ __pycache__/
 image_nets/artifacts/
 qwen/artifacts/
 *.safetensors
+
+# outputs of run_all.sh
+executed/
